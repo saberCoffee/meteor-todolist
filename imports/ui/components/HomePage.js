@@ -8,7 +8,7 @@ import { withTracker } from 'meteor/react-meteor-data';
 import { handleList } from '../../api/lists.js';
 
 // UI
-import Loader from './Loader/Loader';
+import Loader from './Loader';
 
 export default class HomePage extends Component {
   /**
